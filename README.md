@@ -73,4 +73,4 @@ DoD
 
 Ниже представлена BPMN-схема процесса бронирования отеля.
 
-![BPMN-СХЕМА](bpmn-hptel-booking.png.png)
+![BPMN-СХЕМА](bpmn-hotel-booking.png.png)
